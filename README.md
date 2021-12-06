@@ -9,12 +9,12 @@ is to simply have fun and try out different languages while solving interesting 
 
 ## Calendar
 
-* [Day 1: Sonar Sweep](#Day-1)
-* [Day 2: Dive!](#Day-2)
-* [Day 3: Binary Diagnostic](#Day-3)
-* [Day 4: Giant Squid](#Day-4)
-* [Day 5: Hydrothermal Venture](#Day-5)
-* [Day 6: Lanternfish](#Day-6)
+* [Day 1: Sonar Sweep](#Day 1)
+* [Day 2: Dive!](#Day 2)
+* [Day 3: Binary Diagnostic](#Day 3)
+* [Day 4: Giant Squid](#Day 4)
+* [Day 5: Hydrothermal Venture](#Day 5)
+* [Day 6: Lanternfish](#Day 6)
 
 
 ## Background Story
