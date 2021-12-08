@@ -15,6 +15,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 4: Giant Squid](Day%204)
 * [Day 5: Hydrothermal Venture](Day%205)
 * [Day 6: Lanternfish](Day%206)
+* [Day 7: The Treachery of Whales](Day%207)
 
 
 ## Background Story
