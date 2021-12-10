@@ -17,6 +17,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 6: Lanternfish](Day%206)
 * [Day 7: The Treachery of Whales](Day%207)
 * [Day 8: Seven Segment Search](Day%208)
+* [Day 9: Smoke Basin](Day%209)
 
 
 
