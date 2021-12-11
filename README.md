@@ -9,15 +9,15 @@ is to simply have fun and try out different languages while solving interesting 
 
 ## Calendar
 
-* [Day 1: Sonar Sweep](Day%201)
-* [Day 2: Dive!](Day%202)
-* [Day 3: Binary Diagnostic](Day%203)
-* [Day 4: Giant Squid](Day%204)
-* [Day 5: Hydrothermal Venture](Day%205)
-* [Day 6: Lanternfish](Day%206)
-* [Day 7: The Treachery of Whales](Day%207)
-* [Day 8: Seven Segment Search](Day%208)
-* [Day 9: Smoke Basin](Day%209)
+* [Day 1: Sonar Sweep](Day%2001)
+* [Day 2: Dive!](Day%2002)
+* [Day 3: Binary Diagnostic](Day%2003)
+* [Day 4: Giant Squid](Day%2004)
+* [Day 5: Hydrothermal Venture](Day%2005)
+* [Day 6: Lanternfish](Day%2006)
+* [Day 7: The Treachery of Whales](Day%2007)
+* [Day 8: Seven Segment Search](Day%2008)
+* [Day 9: Smoke Basin](Day%2009)
 * [Day 10: Syntax Scoring](Day%2010)
 
 
