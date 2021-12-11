@@ -1,6 +1,6 @@
 # Day 10: Syntax Scoring
 
-## Part A
+## Part One
 
 You ask the submarine to determine the best route out of the deep-sea cave, but it only replies:
 
