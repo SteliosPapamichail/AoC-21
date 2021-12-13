@@ -20,6 +20,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 9: Smoke Basin](Day%2009)
 * [Day 10: Syntax Scoring](Day%2010)
 * [Day 11: Dumbo Octopus](Day%2011)
+* [Day 12: Passage Pathing](Day%2012)
 
 
 
