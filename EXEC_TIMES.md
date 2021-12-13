@@ -1,3 +1,8 @@
+# Execution times table 
+
+Below is a table presenting the execution times for each one of my solutions. Keep in mind that since most of my solutions are written in Java & Kotlin, there will be a 
+JVM overhead present in the data:
+
 | Day | Time (ms) | Parts |
 |-----|-----------|-------|
 |   1 |        55 | Both  |
