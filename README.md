@@ -21,6 +21,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 10: Syntax Scoring](Day%2010)
 * [Day 11: Dumbo Octopus](Day%2011)
 * [Day 12: Passage Pathing](Day%2012)
+* [Day 13: Transparent Origami](Day%2013)
 
 
 
