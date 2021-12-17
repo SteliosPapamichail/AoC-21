@@ -24,7 +24,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 13: Transparent Origami](Day%2013)
 * [Day 14: Extended Polymerization](Day%2014)
 * [Day 15: Chiton](Day%2015)
-
+* [Day 16: Packet Decoder](Day%2016)
 
 
 ## Background Story
