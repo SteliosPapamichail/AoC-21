@@ -20,8 +20,8 @@ JVM overhead present in the data:
 |  13 |        31 | Both  |
 |  14 |        32 | Both  |
 |  15 |       174 | Both  |
-|  16 |        54 | Both  | (without colored output and other print statements)
-|     |           |       |
+|  16 |        54 | Both  |
+|  17 |      40.6 | Both  |
 |     |           |       |
 |     |           |       |
 |     |           |       |

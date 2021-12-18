@@ -25,6 +25,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 14: Extended Polymerization](Day%2014)
 * [Day 15: Chiton](Day%2015)
 * [Day 16: Packet Decoder](Day%2016)
+* [Day 17: Trickshot](Day%2017)
 
 
 ## Background Story
