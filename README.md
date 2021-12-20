@@ -26,6 +26,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 15: Chiton](Day%2015)
 * [Day 16: Packet Decoder](Day%2016)
 * [Day 17: Trickshot](Day%2017)
+* [Day 18: Snailfish](Day%2018)
 
 
 ## Background Story
