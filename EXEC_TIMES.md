@@ -23,8 +23,8 @@ JVM overhead present in the data:
 |  16 |        54 | Both  |
 |  17 |      40.6 | Both  |
 |  18 |   1112 :( | Both  |
-|     |           |       |
-|     |           |       |
+|  19 |           |       |
+|  20 |       922 | Both  |
 |     |           |       |
 |     |           |       |
 |     |           |       |
