@@ -28,7 +28,7 @@ is to simply have fun and try out different languages while solving interesting 
 * [Day 17: Trickshot](Day%2017)
 * [Day 18: Snailfish](Day%2018)
 * [Day 19: TBD]()
-* [Day 20: Trench Map](Day%20)
+* [Day 20: Trench Map](Day%2020)
 
 
 ## Background Story
